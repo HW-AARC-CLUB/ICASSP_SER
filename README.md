@@ -1,2 +1,2 @@
 # ICASSP_SER
-Please be patient waiting for our code
+Our code is placed in the master branch.
