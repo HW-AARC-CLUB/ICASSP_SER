@@ -2,8 +2,6 @@
    Copyright 2021 paper: A Novel End-to-End Speech Emotion Recognition Network with Stacked Transformer Layers
    File name: 5_fold_split.py
    Data Created: 12/10/2020
-   Data last modified: 02/01/2021
-   address: Artificial Intelligence Application Research Center, Huawei Technologies Co Ltd, Shenzhen, China
 """
 import os
 import csv
